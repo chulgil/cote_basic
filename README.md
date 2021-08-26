@@ -17,3 +17,15 @@
 1. [모두의 약수](C009/README.md)
 1. [자릿수의 합](C010/README.md)
 
+1. [숫자의 총 개수(small)](C011/README.md)
+1. [숫자의 총 개수(large)](C012/README.md)
+1. [가장 많이 사용된 자릿수](C013/README.md)
+1. [뒤집은 소수](C014/README.md)
+1. [소수의 개수](C015/README.md)
+1. [Anagram(아나그램 : 구글 인터뷰 문제)](C016/README.md)
+1. [선생님 퀴즈](C017/README.md)
+1. [층간소음](C018/README.md)
+1. [분노 유발자](C019/README.md)
+1. [가위 바위 보](C020/README.md)
+
+자릿수의 합 
